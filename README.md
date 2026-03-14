@@ -2,21 +2,24 @@ RustScan - Guía Técnica
 Índice
 
 Introducción
-Características
-Instalación
-Uso básico
 
-Opciones principales
+-Características
 
-Integración con Nmap
+-Instalación
 
-Ejemplos prácticos
+-Uso básico
 
-Buenas prácticas
+-Opciones principales
 
-Conclusión
+-Integración con Nmap
 
-Referencias
+-Ejemplos prácticos
+
+-Buenas prácticas
+
+-Conclusión
+
+-Referencias
 
 RustScan - Guía Técnica
 1. Introducción
