@@ -82,22 +82,8 @@ rustscan --version
 
 ### Captura recomendada
 
-Realiza una captura ejecutando:
-
-```bash
-rustscan --version
-```
-
-Guardar la imagen como:
-
-```
-images/rustscan_version.png
-```
-
-Insertarla en el README:
-
 ```markdown
-![RustScan version](images/rustscan_version.png)
+![RustScan version](images/Rustscan_version.png)
 ```
 
 ---
