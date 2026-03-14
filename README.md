@@ -168,25 +168,14 @@ Explicación:
 - `-sV` detecta versiones de servicios
 - `-sC` ejecuta scripts básicos de Nmap
 
-### Captura recomendada
-
 Ejecutar:
 
 ```bash
 rustscan -a <IP> -- -sV -sC
 ```
 
-Guardar como:
+![RustScan with Nmap](https://github.com/javyan05/RustScan/blob/main/images/rustscan_nmap.png)
 
-```
-images/rustscan_nmap.png
-```
-
-Insertar imagen:
-
-```markdown
-![RustScan with Nmap](images/rustscan_nmap.png)
-```
 
 ---
 
