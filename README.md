@@ -230,8 +230,6 @@ Flujo típico en pentesting:
 RustScan → Nmap → Enumeración → Explotación
 ```
 
----
-
 
 ---
 
