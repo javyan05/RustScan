@@ -82,9 +82,7 @@ rustscan --version
 
 ### Captura recomendada
 
-```markdown
 ![RustScan version](https://github.com/javyan05/RustScan/blob/main/images/Rustscan_version.png)
-```
 
 ---
 
