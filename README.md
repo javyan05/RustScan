@@ -124,7 +124,6 @@ RustScan realizará:
 2. Envío automático de los puertos abiertos a **Nmap**
 
 
-Ejecutar:
 
 ```bash
 rustscan -a <IP_objetivo>
