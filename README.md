@@ -232,19 +232,6 @@ RustScan → Nmap → Enumeración → Explotación
 
 ---
 
-# Estructura del repositorio
-
-Estructura recomendada:
-
-```
-rustscan-guide
-│
-├── README.md
-└── images
-    ├── rustscan_version.png
-    ├── basic_scan.png
-    └── rustscan_nmap.png
-```
 
 ---
 
