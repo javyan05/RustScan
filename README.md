@@ -2,11 +2,8 @@ RustScan - Guía Técnica
 Índice
 
 Introducción
-
 Características
-
 Instalación
-
 Uso básico
 
 Opciones principales
