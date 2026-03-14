@@ -80,8 +80,6 @@ Verificar instalación:
 rustscan --version
 ```
 
-### Captura recomendada
-
 ![RustScan version](https://github.com/javyan05/RustScan/blob/main/images/Rustscan_version.png)
 
 ---
@@ -125,7 +123,6 @@ RustScan realizará:
 1. Escaneo rápido de puertos
 2. Envío automático de los puertos abiertos a **Nmap**
 
-### Captura recomendada
 
 Ejecutar:
 
@@ -133,17 +130,7 @@ Ejecutar:
 rustscan -a <IP_objetivo>
 ```
 
-Guardar como:
-
-```
-images/basic_scan.png
-```
-
-Insertar en el README:
-
-```markdown
-![RustScan basic scan](images/basic_scan.png)
-```
+![RustScan basic scan](https://github.com/javyan05/RustScan/blob/main/images/basic_scan.png)
 
 ---
 
